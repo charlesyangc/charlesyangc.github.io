@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Chang&#39;s blog</title>
+  
+  
+  <link href="http://www.yangchang.net/atom.xml" rel="self"/>
+  
+  <link href="http://www.yangchang.net/"/>
+  <updated>2020-12-23T03:19:57.000Z</updated>
+  <id>http://www.yangchang.net/</id>
+  
+  <author>
+    <name>Chang Yang</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://www.yangchang.net/2021/06/27/hello-world/"/>
+    <id>http://www.yangchang.net/2021/06/27/hello-world/</id>
+    <published>2021-06-28T03:04:32.247Z</published>
+    <updated>2020-12-23T03:19:57.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>I always felt the desire deep down inside me to express myself. I of course tried various kinds of social media. But most of them really dissatisfy me. I love the convenience provided by these time-consuming machines. But I hate the emptiness after feeling and guessing the true intention behind one after after short but elaborated sentences and pictures, especially when they really trigger my certain emotion, e.g. complacency or envy. I hated them more when I realized afterward I am just being manipulated.</p><p>Then I started the idea of beginning a blog. A place where I can express myself but I must first go through the pain of setting up the environment (I know nothing about front-end design for now). A place where I can carefully modify my words to expound my thoughts, even after publication. I believe this moderate kind of obstruction is just perfect to filter out the unsound thoughts or the thoughts that do not worth mentioning in the very first place. That’s why I uninstall the Weibo, Facebook, etc. I want a place where I need to pay a little more effort to express myself and people need to pay a little more effort to hear from me.</p><p>When I try to choose the themes of my blog, I am struck again with the purpose of this blog. At first I think to take a blog is like taking a diary, which can be used to record my thoughts and thus prevent me from thinking the same thing again. Then in the future I can pick up the point from where I stop thinking last time. Then I thought the blog is a perfect place to demonstrate myself, maybe travelling pictures or book reviews, though I haven’t travelled for a long time and I haven’t really finished any books recently (I like to read many books at the same time and just randomly pick the one I feel like to read). I even thought this website should be used for career purpose. So I should put my publication lists here. Well, the purpose of this blog is still unclear now. I guess I just write whatever I feel like for a while.</p><p>With all above being said, it is pretty possible that this is my first and last post. BTW, I felt a little dizzy yesterday so I took the COVID test. Wish me good luck. </p><div id="disqus_thread"></div><script>    /**    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */        var disqus_config = function () {    this.page.url = <%= config.disqus_shortname %>;  // Replace PAGE_URL with your page's canonical URL variable    this.page.identifier = <%= page.permalink %>; // Replace PAGE_IDENTIFIER with your page's unique identifier variable    };        (function() { // DON'T EDIT BELOW THIS LINE    var d = document, s = d.createElement('script');    s.src = 'https://changyang.disqus.com/embed.js';    s.setAttribute('data-timestamp', +new Date());    (d.head || d.body).appendChild(s);    })();</script><noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;I always felt the desire deep down inside me to express myself. I of course tried various kinds of social media. But most of them really </summary>
+      
+    
+    
+    
+    
+    <category term="Diary" scheme="http://www.yangchang.net/tags/Diary/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>A Random Afternoon</title>
+    <link href="http://www.yangchang.net/2020/12/22/ARandomAfternoon/"/>
+    <id>http://www.yangchang.net/2020/12/22/ARandomAfternoon/</id>
+    <published>2020-12-23T02:55:54.000Z</published>
+    <updated>2020-12-23T04:12:09.000Z</updated>
+    
+    <content type="html"><![CDATA[<p>It is a random afternoon. I stood in the kitchen, eating some pistachios, staring out of the window, alone, and thinking about the future of human being. I thought this might be one of the best times of my life. The fact that I am worrying the future of the whole mankind make me feel powerful and satisfied.</p><p>In fact, I might make the single most important desicion in my entire life in the next few days, whether to go academia or to go industry. I never thought about going academia in the early days of PhD life. I doubted my ability to impact the world if I go academia, while was confident about my ability to live a wealthy life if I go industry. I even think I could be more impactful if I go industry. I am not sure how I got this idea. </p><p>I remember in the early days of my PhD life, I am filled up with the ideas of nihilism and subsequent hedonism. That was mainly because my modest knowledge in physics led me to believe the theory of Heat Death of the Universe. Thus, the conclusion was that there is only one thing worth thinking: how to carefully plan the span of my life to obtain the most pleasure, given my current state and condition. But then by a miracle, I no longer believed in Heat Death. I even believe the end of current universe does not necessitate the end of the mankind. Thus, it is meaningful to leave something for the mankind. Besides, I found true pleasure lies on the fulfillment of my curiosity for the universe. Just by learning new knowledge I gain sincere happiness. Games, shows are less and less appealing to me.</p><p>Recently I read from a philosophy book a sentence “despite of being mortal, we must make ourself as immortal as we can”, said Aristotle. This sentence really hits me and reminds me that desire deep inside me, to be as immortal as possible, one way or another. Maybe everyone has such desire. It is just many of them forget or give up on this idea. </p><p>I felt I am more and more desperately curious about the world. My desire to impact the world and my belief in myself that I can do so also become bigger and bigger. These things drive me leaning to academic road little by little. Einstein published his most famous paper at the age of 25. I have few days left before turning 26. But still, I have a chance, right?</p><div id="disqus_thread"></div><script>    /**    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */        var disqus_config = function () {    this.page.url = <%= config.disqus_shortname %>;  // Replace PAGE_URL with your page's canonical URL variable    this.page.identifier = <%= page.permalink %>; // Replace PAGE_IDENTIFIER with your page's unique identifier variable    };        (function() { // DON'T EDIT BELOW THIS LINE    var d = document, s = d.createElement('script');    s.src = 'https://changyang.disqus.com/embed.js';    s.setAttribute('data-timestamp', +new Date());    (d.head || d.body).appendChild(s);    })();</script><noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;It is a random afternoon. I stood in the kitchen, eating some pistachios, staring out of the window, alone, and thinking about the future</summary>
+      
+    
+    
+    
+    
+    <category term="Diary" scheme="http://www.yangchang.net/tags/Diary/"/>
+    
+  </entry>
+  
+</feed>
